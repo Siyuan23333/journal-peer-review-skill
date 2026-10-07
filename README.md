@@ -65,3 +65,6 @@ python scripts/phrase_check.py "could=\bCould the authors\b" "please=^Please\b"
 ## Notes
 - **Personal defaults.** The style defaults reflect the original author's preferences in one field (medical-imaging AI). Treat them as defaults and adapt them.
 - **Confidentiality.** Never commit review drafts, manuscripts or reviewer-report texts to a public repository.
+
+## License
+The skill (code and documentation) is released under the [MIT License](LICENSE). Short quotations from published reviewer reports in `references/conventions.md` are cited as examples and remain under their original publishers' terms.
